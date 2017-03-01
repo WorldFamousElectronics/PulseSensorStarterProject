@@ -8,7 +8,7 @@ This an Arduino project. It's Best Way to Get Started with your PulseSensor™ &
 3) Blink an LED on each Heartbeat.
 4) This is the direct Pulse Sensor's Signal.  
 5) A great first-step in troubleshooting your circuit and connections. 
-6) "Human-readable" code that is newbie freindly." 
+6) "Human-readable" code that is newbie friendly." 
 
 */
 
