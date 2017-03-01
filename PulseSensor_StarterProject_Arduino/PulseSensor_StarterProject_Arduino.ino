@@ -1,12 +1,14 @@
 
-/*  PulseSensor Starter Project    by Yury Gitman   http://www.pulsesensor.com
+/*  PulseSensor™ Starter Project   http://www.pulsesensor.com
  *   
- *   
-----------------------  Notes ----------------------  ----------------------
-1) This is the most simple Pulse Sensor Project, it shows live Pulse (HeartBeat). 
-1) You can see live Pulse in the Serial Plotter.
-3) You can see live Pulse with Arduino's Built-in LED.
-4) A Grea Project for Troubleshooting your Pulse Sensor's Raw Signal Reading. 
+This an Arduino project. It's Best Way to Get Started with your PulseSensor™ & Arduino. 
+-------------------------------------------------------------
+1) This shows a live human Heartbeat Pulse. 
+2) Live visualization in Arduino's Cool "Serial Plotter".
+3) Blink an LED on each Heartbeat.
+4) This is the direct Pulse Sensor's Signal.  
+5) A great first-step in troubleshooting your circuit and connections. 
+6) "Human-readable" code that is newbie freindly." 
 
 */
 
