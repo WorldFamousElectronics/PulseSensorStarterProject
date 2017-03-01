@@ -43,6 +43,10 @@ void loop() {
    } else {
      digitalWrite(LED13,LOW);                //  Else, the sigal must be below "550", so "turn-off" this LED.
    }
+
+
+delay(20);
+   
    
 }
 
