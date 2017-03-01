@@ -11,3 +11,5 @@ The Best Way to Get Started with your PulseSensor™ Hardware from World Famous 
 4) This is the direct Pulse Sensor's Signal.  
 
 5) A great first-step in troubleshooting your circuit and connections. 
+
+6) "Human-readable" code that is newbie freindly."
