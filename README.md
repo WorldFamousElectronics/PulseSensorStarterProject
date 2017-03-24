@@ -1,6 +1,6 @@
 ![logo](https://avatars0.githubusercontent.com/u/7002937?v=3&s=200)
 # PulseSensor  StarterProject
-#### The Best Way to Get Started with your  <a href="http://arduino.cc/"> "Arduino"</a> and 1 x <a href="http://www.pulsesensor.com"> "Pulse Sensor"</a>. 
+#### The Best Way to Get Started with your <a href="http://www.pulsesensor.com"> "Pulse Sensor"</a> and <a href="http://arduino.cc/"> "Arduino"</a>! 
 
 ![Arduino PulseSensor](Arduino-LEDonPin13-PulseSensor-Pic.jpg)
 
