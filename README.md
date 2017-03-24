@@ -16,5 +16,5 @@
 
 
 
-
-* Legal:  PulseSensor.com™ World Famous Electronics llc. in Brooklyn, NY. USA
+--------------------------------------------------------
+Legal:  PulseSensor.com™ World Famous Electronics llc. in Brooklyn, NY. USA
