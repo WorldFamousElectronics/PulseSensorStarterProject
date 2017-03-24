@@ -11,6 +11,6 @@
 #### *  A great first-step in troubleshooting your circuit and connections. 
 ![Arduino PulseSensor](connections.png)
 
-
+* Arduino <a href="http://arduino.cc/"> "Arduino"</a>
 
 legal:  PulseSensor.com is at Trademark of World Famous Electronics llc. in Brooklyn, NY. 
