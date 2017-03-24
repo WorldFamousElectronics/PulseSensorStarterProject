@@ -2,7 +2,7 @@
 # PulseSensor  StarterProject
 ## The Best Way to Get Started with your <a href="http://www.pulsesensor.com"> "Pulse Sensor"</a> and <a href="http://arduino.cc/"> "Arduino"</a>! 
 
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
+[![Alt text](https://youtu.be/82T_zBZQkOE)](https://youtu.be/82T_zBZQkOE)
 
 
 ![Arduino PulseSensor](Arduino-LEDonPin13-PulseSensor-Pic.jpg)
