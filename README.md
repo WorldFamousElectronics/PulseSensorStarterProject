@@ -4,6 +4,8 @@
 
 ### *  Blink an LED with your heartbeat!  💓
 ![Arduino PulseSensor](Arduino-LEDonPin13-PulseSensor-Pic.jpg)
+![Arduino PulseSensor](connections.png)
+
 ### *  "Human-readable" code that is newbie freindly."
 
 
