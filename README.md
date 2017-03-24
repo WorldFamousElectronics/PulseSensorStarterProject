@@ -1,7 +1,6 @@
 ![logo](https://avatars0.githubusercontent.com/u/7002937?v=3&s=200)
 
-## Getting Started Code / PulseSensor & Arduino 
-## <a href="http://www.pulsesensor.com"> "PulseSensor"</a> and <a href="http://arduino.cc/"> "Arduino"</a>! 
+## Getting Started Code / <a href="http://www.pulsesensor.com">PulseSensor</a>  & <a href="http://arduino.cc/"> "Arduino"</a>
 
 [![Alt text](video-play.png)](https://www.youtube.com/watch?v=82T_zBZQkOE)
 
