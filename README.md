@@ -2,6 +2,9 @@
 # PulseSensor  StarterProject
 ## The Best Way to Get Started with your <a href="http://www.pulsesensor.com"> "Pulse Sensor"</a> and <a href="http://arduino.cc/"> "Arduino"</a>! 
 
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
+
+
 ![Arduino PulseSensor](Arduino-LEDonPin13-PulseSensor-Pic.jpg)
 #### Blink an LED (on Pin 13) with your heartbeat!  💓
 
