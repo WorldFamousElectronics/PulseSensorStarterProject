@@ -1,4 +1,5 @@
-# PulseSensor™  StarterProject
+![logo](https://avatars0.githubusercontent.com/u/7002937?v=3&s=200)
+# PulseSensor  StarterProject
 The Best Way to Get Started with your PulseSensor™ Hardware from World Famous Electronics
 
 
@@ -13,3 +14,6 @@ The Best Way to Get Started with your PulseSensor™ Hardware from World Famous 
 5) A great first-step in troubleshooting your circuit and connections. 
 
 6) "Human-readable" code that is newbie freindly."
+
+
+legal:  PulseSensor.com is at Trademark of World Famous Electronics llc. in Brooklyn, NY. 
