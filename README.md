@@ -15,5 +15,7 @@ The Best Way to Get Started with your PulseSensor™ Hardware from World Famous 
 
 6) "Human-readable" code that is newbie freindly."
 
+![Stick](screenshot-threshold-arrows.png)
+
 
 legal:  PulseSensor.com is at Trademark of World Famous Electronics llc. in Brooklyn, NY. 
