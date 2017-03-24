@@ -3,18 +3,13 @@
 #### The Best Way to Get Started with your <a href="http://www.pulsesensor.com"> "Pulse Sensor"</a> and <a href="http://arduino.cc/"> "Arduino"</a>! 
 
 ![Arduino PulseSensor](Arduino-LEDonPin13-PulseSensor-Pic.jpg)
-
-Requires: 
 Blink an LED (on Pin 13) with your heartbeat!  💓
 
-
-
 ![ScreenShot](screenshot-threshold-arrows.png)
-Newbie freindly code.
-Live visualization of Raw Pulse Signal in Arduino's cool "Serial Plotter".
+Newbie freindly code.   Live visualization of Raw Pulse Signal in Arduino's cool "Serial Plotter".
 
 ![Arduino PulseSensor](connections.png)
-A great first-step in troubleshooting your circuit and connections. 
+Also a great first-step in troubleshooting your circuit, connections, and project!
 
 
 
