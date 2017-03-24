@@ -1,10 +1,10 @@
 ![logo](https://avatars0.githubusercontent.com/u/7002937?v=3&s=200)
 # PulseSensor  StarterProject
-#### The Best Way to Get Started with your PulseSensor & Arduino. 
+#### The Best Way to Get Started with your  <a href="http://arduino.cc/"> "Arduino"</a> and 1 x <a href="http://www.pulsesensor.com"> "Pulse Sensor"</a>. 
 
 ![Arduino PulseSensor](Arduino-LEDonPin13-PulseSensor-Pic.jpg)
 
-Requires: <a href="http://arduino.cc/"> "Arduino"</a> and 1 x <a href="http://www.pulsesensor.com"> "Pulse Sensor"</a> 
+Requires: 
 Blink an LED (on Pin 13) with your heartbeat!  💓
 
 
