@@ -9,8 +9,12 @@
 ![ScreenShot](screenshot-threshold-arrows.png)
 * Newbie-friendly code.   
 * Live visualization of Raw Pulse Signal in Arduino's cool "Serial Plotter".
+
+
 ![Arduino PulseSensor](Arduino-LEDonPin13-PulseSensor-Pic.jpg)
 * Blink an LED (on Pin 13) with your heartbeat!  💓
+
+
 ![Arduino PulseSensor](connections.png)
 * A great first-step in troubleshooting your circuit, connections, and project!
 
