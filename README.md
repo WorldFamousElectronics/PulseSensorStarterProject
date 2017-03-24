@@ -1,18 +1,21 @@
 ![logo](https://avatars0.githubusercontent.com/u/7002937?v=3&s=200)
 # PulseSensor  StarterProject
-## The Best Way to Get Started with your <a href="http://www.pulsesensor.com"> "PulseSensor"</a> and <a href="http://arduino.cc/"> "Arduino"</a>! 
+### The Best Way to Get Started with your <a href="http://www.pulsesensor.com"> "PulseSensor"</a> and <a href="http://arduino.cc/"> "Arduino"</a>! 
 
 [![Alt text](video-play.png)](https://www.youtube.com/watch?v=82T_zBZQkOE)
 
 
-
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
 ![ScreenShot](screenshot-threshold-arrows.png)
-#### Newbie-friendly code.   Live visualization of Raw Pulse Signal in Arduino's cool "Serial Plotter".
+Newbie-friendly code.   Live visualization of Raw Pulse Signal in Arduino's cool "Serial Plotter".
 ![Arduino PulseSensor](Arduino-LEDonPin13-PulseSensor-Pic.jpg)
-#### Blink an LED (on Pin 13) with your heartbeat!  💓
+Blink an LED (on Pin 13) with your heartbeat!  💓
 ![Arduino PulseSensor](connections.png)
-#### Also a great first-step in troubleshooting your circuit, connections, and project!
+Also a great first-step in troubleshooting your circuit, connections, and project!
 
 
 
-legal:  PulseSensor.com is at Trademark of World Famous Electronics llc. in Brooklyn, NY. 
+
+---------------------------------------------------------------------------------
+Legal:  PulseSensor.com™ World Famous Electronics llc. in Brooklyn, NY. USA
