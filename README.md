@@ -6,7 +6,6 @@
 
 
 ---------------------------------------------------------------------------------
----------------------------------------------------------------------------------
 ![ScreenShot](screenshot-threshold-arrows.png)
 Newbie-friendly code.   Live visualization of Raw Pulse Signal in Arduino's cool "Serial Plotter".
 ![Arduino PulseSensor](Arduino-LEDonPin13-PulseSensor-Pic.jpg)
@@ -17,5 +16,4 @@ Also a great first-step in troubleshooting your circuit, connections, and projec
 
 
 
----------------------------------------------------------------------------------
-Legal:  PulseSensor.com™ World Famous Electronics llc. in Brooklyn, NY. USA
+* Legal:  PulseSensor.com™ World Famous Electronics llc. in Brooklyn, NY. USA
