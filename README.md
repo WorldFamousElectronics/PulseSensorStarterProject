@@ -1,8 +1,7 @@
 
 ![logo](https://avatars0.githubusercontent.com/u/7002937?v=3&s=200)
 
-Made Something Awesome With the PulseSensor Code?   Send Us Some PayPal Love. ♥︎  
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg?style=plastic)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KE4DZA5E9AJQ4) 
+
 
 ## Getting Started Code / <a href="http://www.pulsesensor.com">PulseSensor</a>  & <a href="http://arduino.cc/"> "Arduino"</a>
 
@@ -24,4 +23,6 @@ Made Something Awesome With the PulseSensor Code?   Send Us Some PayPal Love. �
 * A great first-step in troubleshooting your circuit, connections, and project!
 
 --------------------------------------------------------
+Made Something Awesome With the PulseSensor Code?   Send Us Some PayPal Love. ♥︎  
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg?style=plastic)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KE4DZA5E9AJQ4) 
 Legal:  PulseSensor.com™ World Famous Electronics llc. in Brooklyn, NY. USA
