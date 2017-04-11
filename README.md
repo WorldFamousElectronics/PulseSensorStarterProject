@@ -1,18 +1,14 @@
-###### Made Something Awesome With the PulseSensor Code?   Send Us Some PayPal Love. ♥︎ 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KE4DZA5E9AJQ4) 
-
-
-
-
----------------------------------------------------------------------------------
-
-
 ![logo](https://avatars0.githubusercontent.com/u/7002937?v=3&s=200)
 
 ## Getting Started Code / <a href="http://www.pulsesensor.com">PulseSensor</a>  & <a href="http://arduino.cc/"> "Arduino"</a>
 
 [![Alt text](video-play.png)](https://www.youtube.com/watch?v=82T_zBZQkOE)
 
+---------------------------------------------------------------------------------
+
+###### Made Something Awesome With the PulseSensor Code?   Send Us Some PayPal Love. ♥︎ 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KE4DZA5E9AJQ4) 
+---------------------------------------------------------------------------------
 
 ---------------------------------------------------------------------------------
 ![ScreenShot](screenshot-threshold-arrows.png)
