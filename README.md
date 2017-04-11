@@ -1,10 +1,7 @@
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ND2SK5LUPKP8Y)
+This project helped you save time and energy? Send us some paypal love. [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KE4DZA5E9AJQ4
+)
+---------------------------------------------------------------------------------
 
-
-## Donation
-If this project help you reduce time and complexity in your project.  Send use some paypal love. 
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ND2SK5LUPKP8Y)
 
 ![logo](https://avatars0.githubusercontent.com/u/7002937?v=3&s=200)
 
