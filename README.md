@@ -5,7 +5,7 @@
 
 ## Getting Started Code / <a href="http://www.pulsesensor.com">PulseSensor</a>  & <a href="http://arduino.cc/"> "Arduino"</a>
 
-[![Alt text](video-play.png)](https://www.youtube.com/watch?v=82T_zBZQkOE)
+[![Alt text](video-play.png)](https://youtu.be/RbB8NSRa5X4)
 
 
 
