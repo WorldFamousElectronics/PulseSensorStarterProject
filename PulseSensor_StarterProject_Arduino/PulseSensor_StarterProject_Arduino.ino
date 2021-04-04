@@ -14,7 +14,7 @@ This an Arduino project. It's Best Way to Get Started with your PulseSensor™ &
 
 
 //  Variables
-int PulseSensorPurplePin = 0;        // Pulse Sensor PURPLE WIRE connected to ANALOG PIN 0
+int PulseSensorPurplePin = A0;        // Pulse Sensor PURPLE WIRE connected to ANALOG PIN 0
 int LED13 = 13;   //  The on-board Arduion LED
 
 
